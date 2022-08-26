@@ -1,2 +1,2 @@
 # Bootstrap-sass-test
-Demo bootstrap whit sass
+Demo bootstrap with sass
